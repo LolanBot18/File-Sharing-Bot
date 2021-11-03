@@ -1,3 +1,11 @@
+#photo code kanged from @codes4ya Channel !
+#Add atleast 10+ Telegraph Links below 👇
+
+
+PHOTO = [
+    "https://telegra.ph/file/daa0e86574b573c68cd7d.jpg",
+
+]
 #(©)CodeXBotz
 import os
 import asyncio
